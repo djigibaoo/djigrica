@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://xgy2vd175lmw"
+
+[deps]
+
+files=["res://build/site/LPC_CREDITS.notes.translation", "res://build/site/LPC_CREDITS.authors.translation", "res://build/site/LPC_CREDITS.licenses.translation", "res://build/site/LPC_CREDITS.urls.translation"]
+
+source_file="res://build/site/LPC_CREDITS.csv"
+dest_files=["res://build/site/LPC_CREDITS.notes.translation", "res://build/site/LPC_CREDITS.authors.translation", "res://build/site/LPC_CREDITS.licenses.translation", "res://build/site/LPC_CREDITS.urls.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true
