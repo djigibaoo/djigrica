@@ -1,11 +1,11 @@
-# Korak do sna - Noć na otoku
+# Korak do sna - A Night on the Island
 
-Igraj: https://djigibaoo.github.io/djigrica/
+Play: https://djigibaoo.github.io/djigrica/
 
-Single-player igra u pregledniku (Godot 4). Četiri člana benda, četiri sobe, jedna noć:
-Sokoban (Mala), shoot 'em up (Šabić), ritam (Jozo), tower defense (Pero) - pa Naddemon.
+Single-player browser game (Godot 4), works on desktop and mobile. Four band members, four rooms, one night:
+Sokoban (Mala), shoot 'em up (Šabić), rhythm (Jozo), tower defense (Pero) - then the Archdemon.
 
-## Zasluge
-- Interijeri: Modern Interiors - LimeZu (limezu.itch.io)
-- Likovi: Liberated Pixel Cup Universal Spritesheet, CC-BY-SA 3.0 / GPL 3.0 (autori: LPC_CREDITS.csv)
+## Credits
+- Interiors: Modern Interiors - LimeZu (limezu.itch.io)
+- Characters: Liberated Pixel Cup Universal Spritesheet, CC-BY-SA 3.0 / GPL 3.0 (authors: LPC_CREDITS.csv)
 - Engine: Godot Engine (godotengine.org)
